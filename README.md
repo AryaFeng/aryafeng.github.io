@@ -1,2 +1,2 @@
 # aryafeng.github.io
-blog
+theme:minima
