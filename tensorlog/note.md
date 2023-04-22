@@ -1,7 +1,7 @@
 # tensorlog介绍
 ![image](https://user-images.githubusercontent.com/69587189/233777939-5d5181b5-f878-407d-a400-c0bcadbacf43.png)
 # 简单代码demo
-```html
+```python3
 # 导入tensorlog模块
 import tensorlog
 
